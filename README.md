@@ -79,8 +79,8 @@ Provide:
 ## 📂 Step 4 — Project Structure
 ```
 .
-├── chat_screenplays.py      # App for screenplays (uses ./screenplays)
-├── chat_pdf.py              # App for general PDFs (uses ./data)
+├── screenplay_rag.py      # App for screenplays (uses ./screenplays)
+├── app.py              # App for general PDFs (uses ./data)
 ├── screenplays/             # Put screenplay PDFs here
 ├── data/                    # Put other PDFs here
 └── README.txt               # This file
