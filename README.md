@@ -117,10 +117,10 @@ The app will build a FAISS index after clicking **Vectors Update** in the sideba
 ## ▶️ Step 8 — Run the Apps
 ```bash
 # Screenplays Q&A app
-streamlit run chat_screenplays.py
+streamlit run screenplay_rag.py
 
 # General PDF Q&A app
-streamlit run chat_pdf.py
+streamlit run app.py
 ```
 
 In the Streamlit UI:
